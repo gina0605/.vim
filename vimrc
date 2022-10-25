@@ -55,7 +55,6 @@ set encoding=utf-8
 " moves
 " ------------------------------------------------------------------------------
 inoremap jk <esc>
-inoremap kj <esc>
 
 map Wk <C-w><up>
 map Wj <C-w><down>
